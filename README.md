@@ -9,7 +9,7 @@ This will serve as my own repository for all the files i need to boot and get Co
 2. Remote control file - To make the original remote work after installing CoreElec
 
 # Remote control
-##Instructions providing you enable Samba on your box
+## Instructions providing you enable Samba on your box
 
 1. Access your MiniMX via file browser i.e.:
 2. Copy the minimxiii file to the folder rc_keymaps
