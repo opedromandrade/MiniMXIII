@@ -15,3 +15,5 @@ This will serve as my own repository for all the files i need to boot and get Co
 2. Copy the minimxiii file to the folder rc_keymaps
 3. Copy the rc_maps file to the folder Configfiles
 4. Reboot your MiniMX
+
+Original files for a huge number of boxes can be found here: http://bit.ly/RmtFilesCE
