@@ -1,12 +1,13 @@
 # MiniMXIII
-All things CoreElec for my MiniMX III
+All things CoreElec/LibreELEC for my MiniMX III
 
 ## Whats this about?
-This will serve as my own repository for all the files i need to boot and get CoreElec up and running on my MiniMX III. No piece of sofware was created or modified by me. All credits to the rightful people in particular the amazing CoreElec team and volunteers.
+This will serve as my own repository for all the files i need to boot and get CoreElec/LibreELEC up and running on my MiniMX III. 
 
 ## What's in this repository
 1. DTB files for the different versions of the MiniMX III
 2. Remote control file - To make the original remote work after installing CoreElec
+3. My own LibreELEC compilation
 
 # Remote control
 ## Instructions providing you enable Samba on your box
@@ -19,5 +20,6 @@ This will serve as my own repository for all the files i need to boot and get Co
 ![](pics/coreelec_3.PNG)
 4. Reboot your MiniMX
 
+LibreELEC
 Original files for a huge number of boxes can be found here: http://bit.ly/RmtFilesCE
 
